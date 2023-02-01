@@ -28,9 +28,7 @@ const Projects = () => {
                             Interactive Front-End 
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href=" https://taylorh07.github.io/movie-actor-finder/" target="_blank">
-                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '>Deployed</button>
-                            </a>
+                            
                             <a href=" https://github.com/TaylorH07/movie-actor-finder" target="_blank" >
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '> Repo</button>
                             </a>
@@ -49,9 +47,7 @@ const Projects = () => {
                             Full-Stack Application
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href="https://tranquil-meadow-44829.herokuapp.com/" target=" _blank" >
-                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '>Deployed</button>
-                            </a>
+                            
                             <a href="https://github.com/TaylorH07/pawprint-chronicles" target=" _blank" >
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '> Repo</button>
                             </a>
@@ -70,9 +66,7 @@ const Projects = () => {
                             Full-Stack Application
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href="https://dougie-deliveries2022.herokuapp.com/" target=" _blank" >
-                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '>Deployed</button>
-                            </a>
+                            
                             <a href="https://github.com/TaylorH07/dougie-deliveries" target=" _blank" >
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '> Repo</button>
                             </a>
@@ -91,9 +85,6 @@ const Projects = () => {
                             Server-Side API
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href="https://taylorh07.github.io/weather-dashboard/" target=" _blank" >
-                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '>Deployed</button>
-                            </a>
                             <a href="https://github.com/TaylorH07/weather-dashboard" target=" _blank" >
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '> Repo</button>
                             </a>
@@ -133,9 +124,6 @@ const Projects = () => {
                             Third-Party API
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href="https://taylorh07.github.io/workday-scheduler/" target=" _blank" >
-                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '>Deployed</button>
-                            </a>
                             <a href="https://github.com/TaylorH07/workday-scheduler" target=" _blank" >
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '> Repo</button>
                             </a>
@@ -154,9 +142,6 @@ const Projects = () => {
                             Express.js Application
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href=" https://calm-dusk-17445.herokuapp.com/" target="_blank" >
-                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '>Deployed</button>
-                            </a>
                             <a href="https://github.com/TaylorH07/note-taker" target=" _blank" >
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '> Repo</button>
                             </a>
