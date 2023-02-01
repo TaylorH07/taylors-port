@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/taylors-port/static/css/main.8a641b06.css",
+    "main.js": "/taylors-port/static/js/main.40a69c46.js",
+    "static/media/jellyfishVid.mp4": "/taylors-port/static/media/jellyfishVid.25b8f0dccdbc729993ac.mp4",
+    "static/media/cSharp.png": "/taylors-port/static/media/cSharp.d8e9a9289dcc76d931b9.png",
+    "static/media/MAF-SS.png": "/taylors-port/static/media/MAF-SS.eac3e764e75028f04d07.png",
+    "static/media/paw-chronicles-SS.png": "/taylors-port/static/media/paw-chronicles-SS.6b9572f87382ec613abf.png",
+    "static/media/doug-deliveriesSS.png": "/taylors-port/static/media/doug-deliveriesSS.9407272ba7fffceec6e1.png",
+    "static/media/mysql.png": "/taylors-port/static/media/mysql.67646295cd91e7a3920e.png",
+    "static/media/java2.png": "/taylors-port/static/media/java2.6452213fc04d7ea44089.png",
+    "static/media/weather-Dash-SS.png": "/taylors-port/static/media/weather-Dash-SS.c5ce71182b349e9e8d82.png",
+    "static/media/express.png": "/taylors-port/static/media/express.04e4743fbd704db71ed7.png",
+    "static/media/react.png": "/taylors-port/static/media/react.89cefd999ca9b0768fed.png",
+    "static/media/workdaySS.png": "/taylors-port/static/media/workdaySS.5c69b51102a9c2b522bd.png",
+    "static/media/node.png": "/taylors-port/static/media/node.bee9856646d0ff6d00a3.png",
+    "static/media/noteTakerSS.png": "/taylors-port/static/media/noteTakerSS.90b222028bea967d1118.png",
+    "static/media/mongo.png": "/taylors-port/static/media/mongo.295c1a25a12e95318c69.png",
+    "index.html": "/taylors-port/index.html",
+    "main.8a641b06.css.map": "/taylors-port/static/css/main.8a641b06.css.map",
+    "main.40a69c46.js.map": "/taylors-port/static/js/main.40a69c46.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a641b06.css",
+    "static/js/main.40a69c46.js"
+  ]
+}
