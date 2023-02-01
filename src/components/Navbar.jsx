@@ -91,11 +91,11 @@ const Navbar = () => {
                         Github <FaGithub size={30} />
                     </a>
                 </li>
-                <li className=' w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#66ad9c] '>
+                {/* <li className=' w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#66ad9c] '>
                     <a className='flex justify-between items-center w-full text-gray-300 ' href="/">
                         Email <HiOutlineMail size={30} />
                     </a>
-                </li>
+                </li> */}
                 <li className=' w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#9381ff] '>
                     <a className='flex justify-between items-center w-full text-gray-300 ' href="https://docs.google.com/document/d/1UVBFZn6hx4ORGUutvimE8Q4dAClsF8eDect_5zEZCl8/edit?usp=sharing">
                         Resume <BsFillPersonLinesFill size={30} />
