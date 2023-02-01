@@ -27,7 +27,7 @@ const Home = () => {
           I am your next Software Engineer; Here's why...
         </h2>
         <p className="text-[#869ce4] py-4 max-w-[700px] ">
-          - I'm passionate about problem solving and engineering resilient
+          -- I'm passionate about problem solving and engineering resilient
           technology to improve the lives of users around the world.
         </p>
         <div>
