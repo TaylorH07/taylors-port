@@ -24,8 +24,8 @@ const About = () => {
             <p>
               - I graduated from SMU’s Full Stack Web Development Program while
               teaching students with learning disabilities, and coaching track
-              and football. As someone who comes from a strong educational background, hardwork and the drive to learn never ends. From being a collegiate football team captian and a  member of the teams leadership committee, to being an educator in charge of team building activities, leadership has always come naturally. I bring a strong work ethic, unparalleled patience, and the ability to complete tasks in unconventional environment. With a keen eye for detail,
-              strengths in creativity and teamwork, I am eager to apply my knowledge to become your next Software Engineer.
+              and football. As someone who comes from a strong educational background, hardwork and the drive to learn never ends. From being a collegiate football team captain and a  member of the team's leadership committee to being an educator in charge of team building activities; leadership has always come naturally to me. I bring a strong work ethic, unparalleled patience, and the ability to complete tasks in unconventional environment. With a keen eye for detail,
+               and my strengths in creativity and teamwork, I am eager to apply my knowledge to become your next Software Engineer.
             </p>
           </div>
         </div>

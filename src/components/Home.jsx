@@ -17,14 +17,14 @@ const Home = () => {
       <div className="absolute w-full h-full top-0 left-0 bg-gray-900/30"></div>
       {/* Container */}
       <div className="absolute top-0 max-w-[1000px] px-10 flex flex-col justify-center h-full mx-14 ">
-        <p className="text-[#c0fdff]"> Hey hey Everyone, My name is</p>
+        <p className="text-[#c0fdff]"> Hey hey everyone, my name is</p>
         <h1 className="text-4xl sm:text-7xl font-bold text-[#b8c6f4] ">
           {" "}
-          Taylor Holmes{" "}
+          Taylor Holmes.{" "}
         </h1>
         <h2 className="text-4xl sm:text-7xl font-bold text-[#869ce4] ">
           {" "}
-          I am your next Software Engineer, here's why...
+          I am your next Software Engineer; Here's why...
         </h2>
         <p className="text-[#869ce4] py-4 max-w-[700px] ">
           - I'm passionate about problem solving and engineering resilient
