@@ -7,7 +7,6 @@ import GitHub from '../assets/github.png';
 import Mongo from '../assets/mongo.png';
 import Java from '../assets/java2.png';
 import Python from "../assets/python.png";
-import Mern from "../assets/mern-logo.png";
 import HTML from "../assets/html.png";
 import CSS from "../assets/css.png";
 import Express from "../assets/express.png";
