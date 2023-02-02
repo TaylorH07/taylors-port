@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/taylors-port/static/css/main.8a641b06.css",
-    "main.js": "/taylors-port/static/js/main.7d41df79.js",
+    "main.css": "/taylors-port/static/css/main.adf5ad07.css",
+    "main.js": "/taylors-port/static/js/main.29ca450f.js",
     "static/media/jellyfishVid.mp4": "/taylors-port/static/media/jellyfishVid.25b8f0dccdbc729993ac.mp4",
     "static/media/cSharp.png": "/taylors-port/static/media/cSharp.d8e9a9289dcc76d931b9.png",
     "static/media/MAF-SS.png": "/taylors-port/static/media/MAF-SS.eac3e764e75028f04d07.png",
@@ -12,16 +12,17 @@
     "static/media/weather-Dash-SS.png": "/taylors-port/static/media/weather-Dash-SS.c5ce71182b349e9e8d82.png",
     "static/media/express.png": "/taylors-port/static/media/express.04e4743fbd704db71ed7.png",
     "static/media/react.png": "/taylors-port/static/media/react.89cefd999ca9b0768fed.png",
+    "static/media/aws.png": "/taylors-port/static/media/aws.a59d5ca6b3b99d8d7b61.png",
     "static/media/workdaySS.png": "/taylors-port/static/media/workdaySS.5c69b51102a9c2b522bd.png",
     "static/media/node.png": "/taylors-port/static/media/node.bee9856646d0ff6d00a3.png",
     "static/media/noteTakerSS.png": "/taylors-port/static/media/noteTakerSS.90b222028bea967d1118.png",
     "static/media/mongo.png": "/taylors-port/static/media/mongo.295c1a25a12e95318c69.png",
     "index.html": "/taylors-port/index.html",
-    "main.8a641b06.css.map": "/taylors-port/static/css/main.8a641b06.css.map",
-    "main.7d41df79.js.map": "/taylors-port/static/js/main.7d41df79.js.map"
+    "main.adf5ad07.css.map": "/taylors-port/static/css/main.adf5ad07.css.map",
+    "main.29ca450f.js.map": "/taylors-port/static/js/main.29ca450f.js.map"
   },
   "entrypoints": [
-    "static/css/main.8a641b06.css",
-    "static/js/main.7d41df79.js"
+    "static/css/main.adf5ad07.css",
+    "static/js/main.29ca450f.js"
   ]
 }
