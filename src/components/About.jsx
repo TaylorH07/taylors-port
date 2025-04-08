@@ -16,7 +16,7 @@ const About = () => {
           <div className=' sm:text-right text-4xl font-bold '>
             <p>
               {' '}
-              Hey, I am ecstatic that you are here! Please take a look around.{' '}
+               I am thrilled that you are here! Please take a look around.{' '}
             </p>
           </div>
           <div>
